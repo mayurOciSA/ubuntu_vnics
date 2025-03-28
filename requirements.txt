@@ -1,0 +1,4 @@
+oci>=2.149.0
+ruamel.yaml>=0.18.10
+requests>=2.32.3
+pip-licenses>=5.0.0 # For generating license reports only, else not needed
